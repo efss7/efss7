@@ -1,5 +1,6 @@
-## Olá, eu sou o Eric Felipe! 👋
+
 <div align="center">
+  ## Olá, eu sou o Eric Felipe! 👋
   <a href="https://github.com/efss7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=efss7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efss7&layout=compact&langs_count=7&theme=radical"/>
