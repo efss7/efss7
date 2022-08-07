@@ -1,8 +1,8 @@
 ## Olá, seja bem vindo ao meu GitHub! aqui você pode encontar alguns projetos realizados por mim. 👋
 <div align="center">
   <a href="https://github.com/efss7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=efss7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efss7&layout=compact&langs_count=7&theme=radical"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=efss7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Efss7&theme=midnight-purple" alt="Efss7" />
 </div>
   
 ##  
@@ -28,9 +28,8 @@
   <div>
   <img src="https://github.com/Sn0wye/Sn0wye/blob/main/img/Japan.gif">
   <div/>
-  ##
-  
- 
+    
+  ## 
 <div style="display: inline_block", align="center" > 
     <a href="https://www.linkedin.com/in/eric-ssilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:ericfelipess07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
