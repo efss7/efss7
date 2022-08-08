@@ -25,8 +25,8 @@
 </div>
   
   ##
-  <div>
-  <img src="https://github.com/Sn0wye/Sn0wye/blob/main/img/Japan.gif">
+  <div align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C5622AQHrcycZMzuNvA/feedshare-shrink_800/0/1659110621340?e=1662595200&v=beta&t=eyEo9jZQsMe_fwof4PhVpB3q_gUnJeg17Jy9TiKm698">
   <div/>
     
   ## 
