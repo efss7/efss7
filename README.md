@@ -1,5 +1,5 @@
 ## Olá, seja bem vindo ao meu GitHub! aqui você pode encontar alguns projetos realizados por mim. 👋
-<div >
+<div align="center" >
   <a href="https://github.com/efss7">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=efss7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efss7&layout=compact&langs_count=7&theme=midnight-purple"/>
