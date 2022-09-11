@@ -24,11 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
-  
-  ##
-  <div align="center">
-  <img src="![Japan](https://user-images.githubusercontent.com/99001809/189506161-a26a5f98-2854-4cc7-b0be-92371506ea08.gif)">
-  <div/>
     
   ## 
 <div style="display: inline_block", align="center" > 
