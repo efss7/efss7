@@ -36,19 +36,15 @@
   </div>
   <div>
   <h3>Others:</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" height="40" width="52" alt="eslint />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" height="40" width="52" alt="eslint logo />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" height="40" width="52" alt="markdown logo"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"/>
-    
-
-    
-
   </div>
 </section>
 
